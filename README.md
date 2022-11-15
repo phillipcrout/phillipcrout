@@ -1,3 +1,3 @@
-👋 Hi, I’m Phillip Crout, however, this isn't the place to find me on github, you want [@pc494](https://github.com/pc494)*
-  
-*it's an alphanumeric from my days as a student.
+👋 Hi, I’m Phillip Crout.
+
+I use this github account to host a pages website, but not much else. To find my day to day coding you'll want to head over to [@pc494](https://github.com/pc494)*
